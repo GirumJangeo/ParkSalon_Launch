@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LaunchApplication<launch>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.parksalon.launch.LaunchApplication",
+            "projectName": "launch",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
